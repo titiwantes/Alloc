@@ -1,6 +1,0 @@
-{
-  "files.associations": {
-    "alloc.h": "c",
-    "unistd.h": "c"
-  }
-}
